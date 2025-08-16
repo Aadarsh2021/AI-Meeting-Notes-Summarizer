@@ -1,0 +1,11 @@
+!.env.example
+!.env
+!.gitignore
+!.git
+!.node_modules
+!.package-lock.json
+!.package.json
+!.README.md
+!.start.bat
+!.start.sh
+!.start.sh
